@@ -1,1 +1,1 @@
-- [kamalraj](https://github.com/kamalraj-hub/kamalraj) - Go package providing reusable utilities and helpers for application development.
+- [kamalraj](https://github.com/kamalraj-hub/kamalraj) - Go package providing reusable utilities and helpers for application development
